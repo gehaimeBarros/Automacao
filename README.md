@@ -7,6 +7,13 @@
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
+## Tools Used
+
+* Appium
+* Cucumber
+* Selenium
+* Apache Maven
+
 ## Documentation
 
 1. The most up-to-date documentation can be found at C:\Users\gehai\Desktop\Exercicio De Automacao\doc.
