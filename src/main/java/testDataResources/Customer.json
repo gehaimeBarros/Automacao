@@ -1,0 +1,40 @@
+/*visualizar o conteúdo de uma string JSON em uma forma de árvore = http://jsonviewer.stack.hu*/
+
+[ 
+ {
+ "firstName": "Roberto Lima",
+ "lastName": "Lima",
+ "age": 35,
+ "emailAddress": "Roberto@gmail.com",
+ "address": {
+ "streetAddress": "Osasco",
+ "city": "Delhi",
+ "postCode": "01153-000",
+ "state": "Delhi",
+ "country": "Brasil",
+ "county": "Delhi"
+ },
+ "phoneNumber": {
+ "home": "012345678",
+ "mob": "0987654321"
+ }
+ },
+ {
+ "firstName": "Camila Silva",
+ "lastName": "Maveks",
+ "age": 35,
+ "emailAddress": "Camila@gmail.com",
+ "address": {
+ "streetAddress": "Santo amaro",
+ "city": "Gurgaon",
+ "postCode": "01153-000",
+ "state": "Haryana",
+ "country": "Brasil",
+ "county": "Delhi"
+ },
+ "phoneNumber": {
+ "home": "012345678",
+ "mob": "0987654321"
+ }
+ }
+]
